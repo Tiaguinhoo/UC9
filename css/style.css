@@ -1,0 +1,85 @@
+/* CSS */
+.menu_top {
+    width: 100%;
+    height: 80px;
+}
+/* Seletores destacados em vermelho */
+.menu_top img{
+    float: left;
+    height: 40px;
+    position: relative;
+    top: 20px;left: 20px;
+}
+.menu_top .menu .linkmenu{
+    text-decoration: none;
+    margin: 30px 8px 0px;
+    font-weight: bold;
+    font-family: 'Montserrat';
+    position: relative;
+    color: #000;
+    left: 50%;
+    top: 30px;
+}
+.menu_top .menu .login{
+    background-color: aqua;
+    color: #fff;
+    padding: 10px 12px;    
+}
+
+/* CSS */
+.section-banner-home{
+    width: 100%;
+    height: 500px;
+    padding: 50px;
+    margin: 30px auto;
+    background-color: #005caa;
+}
+.section-banner-home img{
+    height: 400px;
+}
+.section-banner-home .texto-banner{
+    margin-top: 100px;
+    font-size: 22px;
+}
+.section-banner-home .texto-banner h1{
+    font-size: 30px;
+    width: 60%;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.section-banner-home .texto-banner p{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.section-banner-home .texto-banner a{
+    color: #000;
+    text-decoration: none;
+    background: #fff;
+    padding: 4px 14px;
+    font-size: 20px;
+}
+
+/* CSS - galeria */
+.destaque h2{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.destaque p{
+    width: 77%;
+    text-align: center;
+    font-size: 22px;
+    margin: 30px auto;
+}
+.destaque figcaption{
+    font-size: 13px;
+}
+.destaque a{
+    justify-content: center;
+    display: flex;
+    text-decoration: none;
+    color: #30dcf4;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
