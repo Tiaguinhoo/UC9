@@ -26,7 +26,7 @@
     padding: 10px 12px;    
 }
 
-/* CSS */
+/* CSS banner */
 .section-banner-home{
     width: 100%;
     height: 500px;
@@ -82,4 +82,28 @@
     font-size: 20px;
     font-weight: bold;
     margin: 10px;
+}
+
+/* CSS - novidades */
+.novidades{
+    background-color: #082373;
+    padding: 50px;
+}
+
+.novidades .text-body{
+    width: 80%;
+    margin: 70px auto;
+}
+
+.novidades h2{
+    color: #fff;
+    font-size: 26px;
+}
+
+.novidades p{
+    width: 77%;
+    text-align: justify;
+    font-size: 22px;
+    margin: 30px auto;
+    color: #fff;
 }
